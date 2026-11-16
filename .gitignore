@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+.claude/agents/
+.cursor/rules/agency-*.mdc
+dist/
+.converted/
